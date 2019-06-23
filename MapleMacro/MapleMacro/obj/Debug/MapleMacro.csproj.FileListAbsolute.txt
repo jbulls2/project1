@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MapleMacro\MapleMacro\bin\Debug\MapleMacro.exe.config
+C:\Users\user\source\repos\MapleMacro\MapleMacro\bin\Debug\MapleMacro.exe
+C:\Users\user\source\repos\MapleMacro\MapleMacro\bin\Debug\MapleMacro.pdb
+C:\Users\user\source\repos\MapleMacro\MapleMacro\obj\Debug\MapleMacro.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MapleMacro\MapleMacro\obj\Debug\MapleMacro.Form1.resources
+C:\Users\user\source\repos\MapleMacro\MapleMacro\obj\Debug\MapleMacro.Properties.Resources.resources
+C:\Users\user\source\repos\MapleMacro\MapleMacro\obj\Debug\MapleMacro.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MapleMacro\MapleMacro\obj\Debug\MapleMacro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MapleMacro\MapleMacro\obj\Debug\MapleMacro.exe
+C:\Users\user\source\repos\MapleMacro\MapleMacro\obj\Debug\MapleMacro.pdb
